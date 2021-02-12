@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/new_home_test/static/css/main.c06ff496.chunk.css",
+    "main.js": "/new_home_test/static/js/main.8954dbcd.chunk.js",
+    "main.js.map": "/new_home_test/static/js/main.8954dbcd.chunk.js.map",
+    "runtime~main.js": "/new_home_test/static/js/runtime~main.1f1b8c5d.js",
+    "runtime~main.js.map": "/new_home_test/static/js/runtime~main.1f1b8c5d.js.map",
+    "static/js/2.4ba457e2.chunk.js": "/new_home_test/static/js/2.4ba457e2.chunk.js",
+    "static/js/2.4ba457e2.chunk.js.map": "/new_home_test/static/js/2.4ba457e2.chunk.js.map",
+    "index.html": "/new_home_test/index.html",
+    "precache-manifest.c1dcb0fdbae5e0b2c2e84c8ce2ffa397.js": "/new_home_test/precache-manifest.c1dcb0fdbae5e0b2c2e84c8ce2ffa397.js",
+    "service-worker.js": "/new_home_test/service-worker.js",
+    "static/css/main.c06ff496.chunk.css.map": "/new_home_test/static/css/main.c06ff496.chunk.css.map",
+    "static/media/styles.scss": "/new_home_test/static/media/icon-shake.70695a38.svg",
+    "static/media/icon-city.svg": "/new_home_test/static/media/icon-city.cbc17d15.svg",
+    "static/media/icon-museum.svg": "/new_home_test/static/media/icon-museum.291fa02e.svg",
+    "static/media/icon-search.svg": "/new_home_test/static/media/icon-search.4fa15ca0.svg",
+    "static/media/linkedin.svg": "/new_home_test/static/media/linkedin.a7e3ad49.svg",
+    "static/media/logo-wd.png": "/new_home_test/static/media/logo-wd.998ad7de.png",
+    "static/media/logo.png": "/new_home_test/static/media/logo.962a80b4.png",
+    "static/media/logo_addiv.png": "/new_home_test/static/media/logo_addiv.ecc558b9.png",
+    "static/media/logo_w.png": "/new_home_test/static/media/logo_w.6902fc1d.png",
+    "static/media/map.png": "/new_home_test/static/media/map.ce69c225.png",
+    "static/media/od.png": "/new_home_test/static/media/od.fa96f320.png",
+    "static/media/pic1.jpg": "/new_home_test/static/media/pic1.1f313b54.jpg",
+    "static/media/pic2.jpg": "/new_home_test/static/media/pic2.bc551da5.jpg",
+    "static/media/pic3.jpg": "/new_home_test/static/media/pic3.c9ca455f.jpg",
+    "static/media/pic4.png": "/new_home_test/static/media/pic4.6c03ecc9.png",
+    "static/media/pictures.png": "/new_home_test/static/media/pictures.26e2ec1f.png",
+    "static/media/sn.png": "/new_home_test/static/media/sn.747cf96e.png",
+    "static/media/sp.png": "/new_home_test/static/media/sp.4f1b24f8.png"
+  }
+}
