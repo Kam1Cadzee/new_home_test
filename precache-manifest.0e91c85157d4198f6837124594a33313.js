@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce23fef9f4df50682032086dfad88991",
+    "revision": "5e6609af3fbbe3eaa5bb91da1beaaf4e",
     "url": "/new_home_test/index.html"
   },
   {
-    "revision": "3e61862a029edd88fef6",
+    "revision": "f446d5bf88e3d4db5c7c",
     "url": "/new_home_test/static/css/2.ec157c29.chunk.css"
   },
   {
-    "revision": "c4fd86a483772b009f17",
-    "url": "/new_home_test/static/css/main.4882f6bb.chunk.css"
+    "revision": "48678b3491a58f9f2de1",
+    "url": "/new_home_test/static/css/main.eaed4384.chunk.css"
   },
   {
-    "revision": "3e61862a029edd88fef6",
-    "url": "/new_home_test/static/js/2.4292f5f7.chunk.js"
+    "revision": "f446d5bf88e3d4db5c7c",
+    "url": "/new_home_test/static/js/2.0f603d52.chunk.js"
   },
   {
-    "revision": "c4fd86a483772b009f17",
-    "url": "/new_home_test/static/js/main.22c1e35b.chunk.js"
+    "revision": "48678b3491a58f9f2de1",
+    "url": "/new_home_test/static/js/main.1e4fd331.chunk.js"
   },
   {
     "revision": "9a6ed14b73eea68b99ec",
@@ -204,6 +204,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/new_home_test/static/media/icon-contact.61c26f3b.svg"
   },
   {
+    "revision": "cbb0294c406817158026a863b60c8f2e",
+    "url": "/new_home_test/static/media/icon-diagram.cbb0294c.svg"
+  },
+  {
+    "revision": "0ce9b06125fe80d4c90cac9b50b6f3c1",
+    "url": "/new_home_test/static/media/icon-finance.0ce9b061.svg"
+  },
+  {
+    "revision": "a4d01775ef983c36a10ffdc3e306508b",
+    "url": "/new_home_test/static/media/icon-financement.a4d01775.svg"
+  },
+  {
+    "revision": "09bc3f0981dbd3bce88586e3ebe4106a",
+    "url": "/new_home_test/static/media/icon-handshake.09bc3f09.svg"
+  },
+  {
     "revision": "2b9855a18ede9fb1990d8438216bad0f",
     "url": "/new_home_test/static/media/icon-map.2b9855a1.svg"
   },
@@ -212,8 +228,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/new_home_test/static/media/icon-museum.291fa02e.svg"
   },
   {
+    "revision": "b9e6d12f19e6a485fc52ebc57dc3a04a",
+    "url": "/new_home_test/static/media/icon-note.b9e6d12f.svg"
+  },
+  {
+    "revision": "d8758b5a9baab41820da049450d168aa",
+    "url": "/new_home_test/static/media/icon-open.d8758b5a.svg"
+  },
+  {
     "revision": "bfee2cb9fc702750d5993598752530ed",
     "url": "/new_home_test/static/media/icon-phone.bfee2cb9.svg"
+  },
+  {
+    "revision": "16aef9c10b267147684b4cfdecb4f027",
+    "url": "/new_home_test/static/media/icon-release.16aef9c1.svg"
   },
   {
     "revision": "aef2c31c2122a2556554aac803e1cbe6",
@@ -224,12 +252,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/new_home_test/static/media/icon-search.4fa15ca0.svg"
   },
   {
+    "revision": "44166e34ca96f7eb12bf2b7411278e79",
+    "url": "/new_home_test/static/media/icon-service.44166e34.svg"
+  },
+  {
     "revision": "70695a38b57ad4bfaa1ec1f4dcc8153a",
     "url": "/new_home_test/static/media/icon-shake.70695a38.svg"
   },
   {
+    "revision": "752161d1c818c87eef3e6235f85c7283",
+    "url": "/new_home_test/static/media/icon-shout.752161d1.svg"
+  },
+  {
     "revision": "8a81a444f57474f182cc6de8070cdb22",
     "url": "/new_home_test/static/media/icon-sign.8a81a444.svg"
+  },
+  {
+    "revision": "13a3359fe1f66f4c1dc78f9572b7c75c",
+    "url": "/new_home_test/static/media/icon-target.13a3359f.svg"
+  },
+  {
+    "revision": "366655d77d39a801fd75222ce94bed35",
+    "url": "/new_home_test/static/media/icon-touch.366655d7.svg"
+  },
+  {
+    "revision": "245aa13c458db8a5c05f2e57bf30315a",
+    "url": "/new_home_test/static/media/icon-villa.245aa13c.svg"
   },
   {
     "revision": "a7e3ad49ba8c1b02e4c6b6f71b0c8733",
@@ -260,8 +308,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/new_home_test/static/media/pic1.1f313b54.jpg"
   },
   {
+    "revision": "aa221f6c175cbbafad0cfbf0f2625ffd",
+    "url": "/new_home_test/static/media/pic1.aa221f6c.png"
+  },
+  {
+    "revision": "48ccc595821729efe2ab35ff46498bd1",
+    "url": "/new_home_test/static/media/pic2.48ccc595.png"
+  },
+  {
     "revision": "bc551da58bdc6e07b70f7a35ee9a947c",
     "url": "/new_home_test/static/media/pic2.bc551da5.jpg"
+  },
+  {
+    "revision": "66e56cadd5b9b1a3783f5efd1903251c",
+    "url": "/new_home_test/static/media/pic3.66e56cad.png"
   },
   {
     "revision": "c9ca455f0d4a044b34de612a17f0c45b",
@@ -270,6 +330,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "196786e301c56ba1c88a5bf1e0a9040f",
     "url": "/new_home_test/static/media/pic4.196786e3.png"
+  },
+  {
+    "revision": "38df4de9ff4860d5c524144dfedd44cc",
+    "url": "/new_home_test/static/media/pic4.38df4de9.png"
   },
   {
     "revision": "db81347b61d3ff58549719457d8d06b6",
